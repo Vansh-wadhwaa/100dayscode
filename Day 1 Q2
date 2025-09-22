@@ -16,4 +16,5 @@ int main(){
     printf("Product is %d\n",e);
     printf("Quotient is %f\n",f);
     return 0;
+
 }
